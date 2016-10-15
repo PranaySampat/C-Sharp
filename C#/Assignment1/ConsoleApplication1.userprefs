@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{40A8396A-7884-4276-A5A6-3BA9BCADC412}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleApplication1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="ConsoleApplication1/Program.cs" Line="209" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleApplication1" expanded="True">
+            <Node name="ConsoleApplication1" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/pranaysampat/Downloads/CoroutinesWith VisualStudio15/ConsoleApplication1/Program.cs" line="203" column="45" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
